@@ -1,0 +1,6 @@
+bower.json  - name
+package.json - name, repository.url
+index.html - ng-app
+app.js - module
+main.js - module
+test/main.js - module

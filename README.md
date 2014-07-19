@@ -16,7 +16,7 @@ The general assumptions are
 
 ### What is this repository for? ###
 
-* Base Project for Yeoman+flask+GAE = (yo-gae) 
+* A simple Demonstration for $resource
 
 
 ### How do I get set up? ###
@@ -33,3 +33,7 @@ The general assumptions are
  
 * grunt build 
 * appcfg.py update .
+
+###TODO
+
+* Remove python and use json file for all api 
